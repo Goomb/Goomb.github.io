@@ -1,0 +1,4 @@
+[Wed Apr 06 18:00:32.197323 2016] [access_compat:error] [pid 12267] [client 127.0.0.1:39166] AH01797: client denied by server configuration: /srv/http/blog/index.html
+[Wed Apr 06 18:01:20.969753 2016] [access_compat:error] [pid 12315] [client 127.0.0.1:39192] AH01797: client denied by server configuration: /srv/http/blog/index.html, referer: http://blog/install.php?action=install
+[Wed Apr 06 18:01:21.001334 2016] [access_compat:error] [pid 12315] [client 127.0.0.1:39192] AH01797: client denied by server configuration: /srv/http/blog/index.html, referer: http://blog/install.php?action=install
+[Wed Apr 06 18:04:07.668975 2016] [access_compat:error] [pid 12450] [client 127.0.0.1:39378] AH01797: client denied by server configuration: /srv/http/blog/index.html, referer: http://blog/install.php?action=install
